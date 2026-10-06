@@ -240,4 +240,4 @@ This repository serves as the official landing page for pouetChess. The software
 **Get the most recent version of pouetChess today!**
 
 ---
-**Last updated:** 2026-10-06 04:59:03 UTC
+**Last updated:** 2026-10-06 11:55:37 UTC
